@@ -44,16 +44,9 @@ https://github.com/MurilloBastos7/Projeto_final_analise-noite
 
 # 📸 Interface
 
-*(Adicione aqui prints da aplicação.)*
+<img width="1919" height="948" alt="Captura de tela 2026-07-15 204508" src="https://github.com/user-attachments/assets/e588af69-0d83-47c1-b150-c600c34e0c47" />
 
-Exemplo:
-
-```
-assets/home.png
-assets/result.png
-```
-
----
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/4b25bb62-8960-497a-bf68-ed6ce9d6d57c" />
 
 # ✨ Funcionalidades
 
